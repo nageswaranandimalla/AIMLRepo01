@@ -1,0 +1,16 @@
+https://github.com/nageswaranandimalla/AIMLRepo01.git
+
+
+echo "# AIMLRepo01" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nageswaranandimalla/AIMLRepo01.git
+git push -u origin main
+
+
+
+git remote add origin https://github.com/nageswaranandimalla/AIMLRepo01.git
+git branch -M main
+git push -u origin main
